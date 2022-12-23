@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/inl6/static/css/main.b30cafec.css",
+    "main.js": "/inl6/static/js/main.236de299.js",
+    "static/media/question.png": "/inl6/static/media/question.7214382a6870f87e94cf.png",
+    "index.html": "/inl6/index.html",
+    "main.b30cafec.css.map": "/inl6/static/css/main.b30cafec.css.map",
+    "main.236de299.js.map": "/inl6/static/js/main.236de299.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30cafec.css",
+    "static/js/main.236de299.js"
+  ]
+}
